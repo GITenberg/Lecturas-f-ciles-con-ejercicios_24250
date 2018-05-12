@@ -1,0 +1,30 @@
+_repo: Lecturas-f-ciles-con-ejercicios_24250
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Luria, Max Aaron
+    birthdate: 1891
+    gutenberg_agent_id: '26349'
+    url: http://www.gutenberg.org/2009/agents/26349
+  - agent_name: Wilkins, Lawrence A. (Lawrence Augustus)
+    birthdate: 1878
+    gutenberg_agent_id: '26348'
+    url: http://www.gutenberg.org/2009/agents/26348
+description: ''
+gutenberg_issued: '2008-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24250'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Spanish language -- Composition and exercises'
+- !lcsh 'Spanish language -- Readers'
+title: Lecturas fáciles con ejercicios
+url: http://www.gutenberg.org/ebooks/24250
